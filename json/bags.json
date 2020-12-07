@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "price": 10.99,
+                "image": "images/slider2/rbags2.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "price": 15,
+                "image": "images/slider2/rbags4.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "price": 13,
+                "image": "images/slider2/rbags5.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "price": 10.5,
+                "image": "images/slider2/rbags7.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "price": 15.99,
+                "image": "images/slider2/rbags9.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "price": 9.99,
+                "image": "images/slider2/rbags12.jpg"
+            }
+        }
+    ]
+}

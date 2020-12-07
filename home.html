@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="css/home.css">
+
+
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css">
+
+</head>
+<body>
+   
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="brands.html">Brands</a></li>
+            <li><a href="aboutus.html">About</a></li>
+            <li><a href="countactus.html">Contact Us</a></li>
+            <li><a href="#" id="changeColor">Change Color</a></li>
+            <li style="margin-left:15% ; color: cornsilk; ">
+                <div class="logo" style="padding: 4px;"></div>
+                   <h2>SPORTS©SHOP
+                    <button id="myBtn" style="margin: 10px ;">
+                        <span class="nav_icon">
+                        <i class="fas fa-cart-plus"></i>
+                        <span class="cart-items">0</span>
+                        </span>
+                    </button>
+                   </h2>    
+                </div>
+            </li>
+           
+            <li class="active"><a  href="signin.html">Log in</a></li>
+        </ul>
+        
+  
+  <div class="clear-fix"></div>
+<section>
+   
+
+    <!-- Trigger/Open The Modal -->
+
+    
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+    
+      <!-- Modal content -->
+      <div class="modal-content">
+        <div class="modal-header">
+          <span class="close">&times;</span>
+          <h2>Your Cart</h2>
+        </div>
+     <div class="modal-body">
+                    
+    <div class="cart-overlay">
+        
+        
+        
+        <div class="cart" style="width: 33.3%; float: left; text-align: center;">
+            <div class="cart-content">
+                <div class="cart-item">
+                    <img src="images/abags.jpg" alt="">
+                <div >
+                     <h4 >Product: Bag</h4><br>
+                     <h5 >Price :$18</h5><br>
+                     <button class="remove-item" style="background-color:dodgerblue; 
+                     width: 50%; border-radius:10%; padding: 10px;">remove</button>
+                    </div>
+                </div>
+            </div>
+            <i class="fas fa-chevron-up"></i>
+            <p class="item-amount">amount : 1</p>
+            <i class="fas fa-chevron-down"></i>
+        </div>
+
+      
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
+    <div class="cart-footers">
+        <h3 style="text-align: center;">your total : $<span class="cart-total">0</span></h3>
+        <button class="clear-cart banner-btn" style="display: block; 
+        width: 50%; margin: auto;
+        background-color:crimson; padding: 10px;
+        border-radius: 10px;">clear cart</button>
+    </div>
+</div>
+
+</div>
+                           
+                           
+                           
+                    
+    
+    
+</section>
+
+    <div class="container">
+     
+        <div class="slider">
+            <form action="shoesbuy.html">
+                <input type="image"
+                 src="images/slider1/nshoes2.jpg"
+                 alt="no"
+                 title="click to buy now" 
+                 id="slider1">
+            </form>
+        </div>
+        <h2>Stand out this summer</h2>
+
+
+        <div class="row">
+            <form action="summerbuy.html">
+                <div class="row-left" >
+                    <input type="image" src="images/summerlooks.jpg" alt="no image" >
+                 </div>
+                 <div class="row-center">
+                    <input type="image" src="images/msummerlooks2.jpg" alt="no image" >
+                 </div>
+                 <div class="row-right" >
+                     <input type="image" src="images/summerlooks3.jpg" alt="no image" >
+                 </div>
+            </form>
+        </div>
+
+
+        <div class="slider2" >
+            <form action="bagsbuy.html">
+                <input type="image"
+                       src="images/slider2/rbags12.jpg"
+                       alt="no"
+                       title="click to buy now" 
+                       id="slider2">
+            </form>
+        </div>
+
+        <div class="perfium">
+            <h2>Grab Branded Perfumes. Click The Picture Below</h2>
+            <form action="perfiumbuy.html">
+                <input type="image" src="images/perfume.jpg" alt="">
+                <input type="image" src="images/perfume2.jpg" alt="">
+                <input type="image" src="images/perfume3.jpg" alt="">
+                <input type="image" src="images/perfume4.jpg" alt="">
+            </form>
+        </div>
+
+        <div class="shoes">
+            <h2>
+              <marquee behavior="alternate" direction="" width="500px"> Football Shoes</marquee> 
+            </h2>
+            <form action="footballbuy.html">
+                <input type="image" src="images/adidasmessi.jpg" alt="" width="100%">
+            </form>
+        </div>
+
+        <div class="jordan">
+            <h2>
+              <marquee behavior="alternate" direction="" width="500px"> Jordan Brands</marquee> 
+            </h2>
+            <form action="jordanbuy.html">
+                <input type="image" src="images/jordanbrand.jpg" alt="" width="100%">
+            </form>
+        </div>
+        
+
+        
+    </div>
+
+
+    <!--############footer################-->
+    <div class="footer_container">
+       
+                <div class="footer_about">
+                    <h2 class="h2_footer">About</h2><hr><br>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo sit qui ratione laborum ab non repellendus praesentium quasi soluta
+               
+            </div>
+            <div class="footer_menu">
+                <h2 class="h2_footer">Menu</h2><hr>
+                  <a href="#"class="footer_ancor">Home</a>
+                  <a href="#"class="footer_ancor">About</a>
+                  <a href="#"class="footer_ancor">Contact Us</a>
+              
+               
+            </div>
+
+            <div class="footer_product">
+                <h2 class="h2_footer">Our Product</h2><hr>
+                <a href="#"class="footer_ancor1">Male sports clothes</a>
+                <a href="#" class="footer_ancor1">Female sports clothes</a>
+            </div>
+            <div class="footer_contactus">
+
+                <h2 class="h2_footer">Countact Us</h2><hr>
+               
+                 <div class="phone">  phone : 01147222382</div>
+                 <div class="phone">  Email : sports@gmail.com</div>
+                  
+            
+              </div>
+    </div>
+    <script src="js/home.js"></script>
+
+
+
+    
+</body>
+</html>

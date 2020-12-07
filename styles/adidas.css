@@ -1,0 +1,57 @@
+body{
+    background: url("../images/adidas.png") no-repeat center  fixed ; 
+  background-size: cover;
+  background-color:antiquewhite;
+
+    }
+    a{
+        font-weight: bolder;	
+         padding: 19px 39px 18px 39px; 
+        font-size: 18px;
+        color: #FFFFFF;
+        border-radius: 6px;
+        display: inline-block;
+        text-decoration: none;
+        /* overflow: hidden; */
+        /* white-space: nowrap; */
+       
+    }
+   .gender1 .men{
+       
+        /* color: black;
+        border: 1px solid black; */
+        /* padding: 5px;
+        width: 20px; */
+        transform: translate(-250px,40px); 
+        border-color: #326E99;
+        background-color: #3F8ABF;   
+       }
+       .gender2 .women{
+        
+        /* color: black;
+        border: 1px solid black; */
+        /* padding: 5px;
+        width: 20px; */
+        transform: translate(-250px,40px); 
+        background-color: #4BC970;
+        border-color: #3AC162;    
+       }
+       /* div{
+      
+        float: left;
+        width: 1300px;
+        padding: 10px;  
+        padding-top: 150px;  
+        text-align: center;
+      
+      } */
+      .gender1{
+        transform: translate(10px,50px);
+        display: inline-block;
+      }
+      .gender2{
+        transform: translate(550px,50px);
+        display: inline-block;
+      }
+
+      

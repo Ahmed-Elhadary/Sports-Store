@@ -1,0 +1,94 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "price": 10.99,
+                "image": "images/jordan.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "price": 15,
+                "image": "images/jordan2.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "price": 13,
+                "image": "images/jordan3.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "price": 10.5,
+                "image": "images/jordan4.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "price": 15.99,
+                "image": "images/jordan5.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "price": 9.99,
+                "image": "images/jordan6.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "price": 11,
+                "image": "images/jordan7.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "price": 12,
+                "image": "images/jordan8.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "9"
+            },
+            "fields": {
+                "price": 13,
+                "image": "images/jordan9.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "10"
+            },
+            "fields": {
+                "price": 20.99,
+                "image": "images/jordan10.jpg"
+            }
+        }
+    ]
+}

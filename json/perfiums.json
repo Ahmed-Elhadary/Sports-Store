@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "price": 10.99,
+                "image": "images/perfume.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "price": 15,
+                "image": "images/perfume2.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "price": 13,
+                "image": "images/perfume3.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "price": 10.5,
+                "image": "images/perfume4.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "price": 15.99,
+                "image": "images/perfume5.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "price": 9.99,
+                "image": "images/perfume6.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "price": 11,
+                "image": "images/perfume7.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "price": 12,
+                "image": "images/perfume8.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "9"
+            },
+            "fields": {
+                "price": 13,
+                "image": "images/perfume9.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "10"
+            },
+            "fields": {
+                "price": 20.99,
+                "image": "images/perfume10.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "11"
+            },
+            "fields": {
+                "price": 13,
+                "image": "images/perfume11.jpg"
+            }
+        },
+        {
+            "sys": {
+                "id": "12"
+            },
+            "fields": {
+                "price": 20.99,
+                "image": "images/perfume12.jpg"
+            }
+        }
+    ]
+}
